@@ -1,6 +1,6 @@
 # Healthcare Analysis 
 
-## Project Overview
+### Project Overview
 
 This project presents a comprehensive analysis of 55,500 anonymized patient records from 10 major hospitals across the United States, focusing on patient demographics, medical conditions, hospital performance, treatment costs, and insurance coverage. Using Excel for data cleaning and feature engineering and Power BI for advanced visualizations and DAX-based analytics, the study uncovers key patterns in healthcare delivery. Findings highlight dominant age groups and chronic conditions like diabetes and hypertension, gender-based disparities in diagnoses, consistently high average treatment costs (~$25K–26K), and standardized hospital stay durations (~15.5 days). Regional differences in hospital admissions, high rates of abnormal test results, and a strong reliance on Medicare (50% of patients) are also revealed. The insights generated offer data-driven recommendations for improving patient care, resource allocation, and healthcare equity nationwide.
 
