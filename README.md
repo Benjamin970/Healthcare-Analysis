@@ -4,6 +4,16 @@
 
 This project presents a comprehensive analysis of 55,500 anonymized patient records from 10 major hospitals across the United States, focusing on patient demographics, medical conditions, hospital performance, treatment costs, and insurance coverage. Using Excel for data cleaning and feature engineering and Power BI for advanced visualizations and DAX-based analytics, the study uncovers key patterns in healthcare delivery. Findings highlight dominant age groups and chronic conditions like diabetes and hypertension, gender-based disparities in diagnoses, consistently high average treatment costs (~$25K–26K), and standardized hospital stay durations (~15.5 days). Regional differences in hospital admissions, high rates of abnormal test results, and a strong reliance on Medicare (50% of patients) are also revealed. The insights generated offer data-driven recommendations for improving patient care, resource allocation, and healthcare equity nationwide.
 
+### Report Preview
+![Screenshot 2025-04-26 012832](https://github.com/user-attachments/assets/e63c6135-2951-4886-b72d-620e6c8e8a48)
+
+![Screenshot 2025-04-26 012858](https://github.com/user-attachments/assets/4428ae26-e7c4-4e11-8aa6-7b40801d69f9)
+
+![Screenshot 2025-04-26 120536](https://github.com/user-attachments/assets/a305c1e6-dc60-4a9a-b88c-c3f3d5a990ec)
+
+
+
+
 ### Data Sources
 
 The dataset used in this project consists of 55,500 anonymized patient records collected from 10 major hospitals across the United States. It was obtained from publicly available open data sources intended for public use.
