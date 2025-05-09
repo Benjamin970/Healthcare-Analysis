@@ -1,10 +1,10 @@
 # Healthcare Analysis 
 
-### Project Overview
+## Project Overview
 
 This project presents a comprehensive analysis of 55,500 anonymized patient records from 10 major hospitals across the United States, focusing on patient demographics, medical conditions, hospital performance, treatment costs, and insurance coverage. Using Excel for data cleaning and feature engineering and Power BI for advanced visualizations and DAX-based analytics, the study uncovers key patterns in healthcare delivery. Findings highlight dominant age groups and chronic conditions like diabetes and hypertension, gender-based disparities in diagnoses, consistently high average treatment costs (~$25K–26K), and standardized hospital stay durations (~15.5 days). Regional differences in hospital admissions, high rates of abnormal test results, and a strong reliance on Medicare (50% of patients) are also revealed. The insights generated offer data-driven recommendations for improving patient care, resource allocation, and healthcare equity nationwide.
 
-### Report Preview
+## Report Preview
 ![Screenshot 2025-04-26 012832](https://github.com/user-attachments/assets/e63c6135-2951-4886-b72d-620e6c8e8a48)
 
 ![Screenshot 2025-04-26 012858](https://github.com/user-attachments/assets/4428ae26-e7c4-4e11-8aa6-7b40801d69f9)
@@ -14,16 +14,16 @@ This project presents a comprehensive analysis of 55,500 anonymized patient reco
 
 
 
-### Data Sources
+## Data Sources
 
 The dataset used in this project consists of 55,500 anonymized patient records collected from 10 major hospitals across the United States. It was obtained from publicly available open data sources intended for public use.
 
-### Tools
+## Tools
 
 - Microsoft Excel
 - Power BI
 
-### Data Cleaning/Preparation
+## Data Cleaning/Preparation
 
 1. Handling Missing Values: Identified and addressed missing entries in fields such as gender, blood type, and admission/discharge dates.
 
@@ -34,7 +34,7 @@ The dataset used in this project consists of 55,500 anonymized patient records c
    - Created age group bins (e.g., 10–19, 20–29, ..., 80–89) using Excel’s XLOOKUP and pivot logic.
 5.  Data Validation: Ensured all records had valid entries for critical fields and removed or flagged outliers and duplicates where necessary.
 
-### Data Analysis
+## Data Analysis
 
 Following data cleaning and EDA, targeted analysis was conducted using DAX in Power BI to answer critical questions around patient demographics, hospital operations, treatment costs, and clinical outcomes. Key analyses included:
 
@@ -56,7 +56,7 @@ Following data cleaning and EDA, targeted analysis was conducted using DAX in Po
    - Ranked hospitals by patient volume and overlaid findings on a U.S. map.
    - Found urban hospitals dominate admissions; Houston Methodist treated 10× more patients than some peers.
 
-### Results and Findings
+## Results and Findings
 The analysis yielded several impactful insights into patient demographics, clinical trends, and hospital operations across 10 major U.S. hospitals:
 
 1. Patient Demographics
@@ -86,7 +86,7 @@ Hospital stays averaged 15.4–15.6 days across conditions, with slightly longer
    - Patient volumes were concentrated in urban centers, especially Houston Methodist, which handled over 20K patients—10× more than some peers.
    - Coastal hospitals (NY, CA, MA) also showed high traffic, while rural areas were underrepresented
 
-### Recommendations
+## Recommendations
 
 Based on the analysis of patient data from 10 major U.S. hospitals, the following strategic recommendations are proposed to enhance healthcare delivery, resource management, and equity:
 
@@ -120,7 +120,7 @@ Based on the analysis of patient data from 10 major U.S. hospitals, the followin
    - Diversify hospital reimbursement strategies given the heavy reliance on Medicare (50% of patients).
    - Evaluate how different insurance providers influence treatment patterns and patient outcomes.
   
-### Limitations
+## Limitations
 
 While this project provides meaningful insights into healthcare operations and patient trends, several limitations should be considered when interpreting the findings:
 1. Lack of Population Benchmarks
